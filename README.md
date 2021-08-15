@@ -3,8 +3,8 @@
 
 ```
 {
-  .estudar -> aprender -> codar
- 
+  .estudar -> aprender -> codar;
+  atualmente estudando desenvolvimento web;
 }
 ```
 > *" Todo profissional um dia foi amador, o prédio mais alto do mundo começou no chão " - Autor Desconhecido*
