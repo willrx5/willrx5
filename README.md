@@ -1,5 +1,5 @@
-### Aquele bom e experiente HelloWorld !!! 👋
-#### esboços de futuro dev. 
+### Aquele bom e experiente HelloWorld !!!👋
+#### esboços de futuro dev mochileiro :computer:🎒:earth_americas:... 
 
 ```
 {
