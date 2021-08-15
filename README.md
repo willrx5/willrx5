@@ -1,4 +1,13 @@
-### Hi there 👋
+### Aquele bom e experiente HelloWorld !!! 👋
+#### esboços de futuro dev. 
+
+```
+{
+  .estudar -> aprender -> codar
+ 
+}
+```
+> *" Todo profissional um dia foi amador, o prédio mais alto do mundo começou no chão " - Autor Desconhecido*
 
 <!--
 **willrx5/willrx5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
